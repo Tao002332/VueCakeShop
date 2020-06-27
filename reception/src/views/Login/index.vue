@@ -63,7 +63,7 @@
               />&nbsp; <label for="account-option-1">Remember me</label>
             </div>
             <div class="form-group pass">
-              <router-link tag="a" class="psw" :to="{ name: 'ChangePwd' }">Lost your password？</router-link>
+              <router-link tag="a" class="psw" :to="{ name: 'ChangePwd' }">Lost your password???</router-link>
               <router-link tag="a" class="psw" :to="{ name: 'Register' }">No account?</router-link>
             </div>
         </div>
